@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fimple-.Net-Hafta01/1.0.0": {
+        "runtime": {
+          "Fimple-.Net-Hafta01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fimple-.Net-Hafta01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

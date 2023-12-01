@@ -1,0 +1,14 @@
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\bin\Debug\net8.0\Fimple-.Net-Week01.exe
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\bin\Debug\net8.0\Fimple-.Net-Week01.deps.json
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\bin\Debug\net8.0\Fimple-.Net-Week01.runtimeconfig.json
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\bin\Debug\net8.0\Fimple-.Net-Week01.dll
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\bin\Debug\net8.0\Fimple-.Net-Week01.pdb
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\Fimple-.Net-Week01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\Fimple-.Net-Week01.AssemblyInfoInputs.cache
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\Fimple-.Net-Week01.AssemblyInfo.cs
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\Fimple-.Net-Week01.csproj.CoreCompileInputs.cache
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\Fimple-.Net-Week01.dll
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\refint\Fimple-.Net-Week01.dll
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\Fimple-.Net-Week01.pdb
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\Fimple-.Net-Week01.genruntimeconfig.cache
+C:\Users\X\source\repos\Fimple-.Net-Hafta01\Fimple-.Net-Hafta01\obj\Debug\net8.0\ref\Fimple-.Net-Week01.dll
